@@ -47,7 +47,7 @@ config       -> configuración de la conexión a la base de datos
 
 ## Capturas de pantalla
 
--Login
+- Login
 
 
   <img width="254" height="119" alt="image" src="https://github.com/user-attachments/assets/75ac8654-948e-4dc5-ab9d-5b7b3b16af5a" />
@@ -60,12 +60,12 @@ config       -> configuración de la conexión a la base de datos
 
 ## Diagramas
 
--Relacion
+- Relacion
 
 
 <img width="285" height="721" alt="image" src="https://github.com/user-attachments/assets/6e9c068a-947a-45e0-936c-10f202f451f3" />
 
--Caso de usos
+- Caso de usos
 
 
 <img width="755" height="207" alt="image" src="https://github.com/user-attachments/assets/044cd7c0-51bd-47cb-b41b-10ccdadd4dc0" />
